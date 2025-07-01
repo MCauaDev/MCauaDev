@@ -1,2 +1,9 @@
+Olá! 👋
+Sou Cauã, um desenvolvedor full stack com foco em inovação e tecnologia. Aos 17 anos, já atuo com desenvolvimento para web e também para a plataforma FiveM, sempre buscando aprimorar minhas habilidades e entregar soluções de qualidade.
 
-"Olá! 👋 Eu sou Cauã, um jovem desenvolvedor apaixonado por tecnologia e inovação. Com apenas 17 anos, mergulho de cabeça no mundo do desenvolvimento full stack, tanto para web quanto para FiveM. Minhas ferramentas de escolha incluem HTML, CSS, JavaScript, Python e .lua. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer. Vamos criar algo incrível juntos! 💻✨"
+Tenho experiência com as seguintes tecnologias:
+
+HTML, CSS e JavaScript para interfaces modernas e responsivas
+Python para automações e back-end
+Lua para desenvolvimento de scripts no ambiente FiveM
+Sou movido por desafios e estou constantemente em busca de novos aprendizados e oportunidades de crescimento. Vamos transformar ideias em projetos incríveis? 💻✨
